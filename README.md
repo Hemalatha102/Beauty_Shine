@@ -333,6 +333,5 @@ button{
             <div class="gird-2item"><a href="#" class="two">APPOINMENT</a></div>
            </div>
            
-        </div>
-        </body>
+        
 </html>
