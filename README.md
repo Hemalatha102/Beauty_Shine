@@ -283,7 +283,7 @@ button{
             <div class="you">Mark-up Accessories</div>
         </div>
         <div class="item3">
-            <img src="c:\Users\hemalatha\OneDrive\Desktop\OneDrive\Documents\hair salon.jpg" width="300px" heigth="500px">
+            <img src="hair salon.jpg" width="300px" heigth="500px">
             <div class="you">Hair Care Styling</div>
         </div>
     </div>
