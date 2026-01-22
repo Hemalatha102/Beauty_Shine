@@ -275,7 +275,7 @@ button{
     </div>
     <div class="gird-4container">
         <div class="item1">
-    <img src="c:\Users\hemalatha\OneDrive\Desktop\OneDrive\Documents\salon girl.jpg" width="300px" heigth="500px">
+    <img src="salon girl.jpg" width="300px" heigth="500px">
     <div class="you">Skin Care Accessories</div>
         </div>
         <div class="item2">
