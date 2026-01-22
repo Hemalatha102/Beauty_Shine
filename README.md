@@ -279,7 +279,7 @@ button{
     <div class="you">Skin Care Accessories</div>
         </div>
         <div class="item2">
-            <img src="c:\Users\hemalatha\OneDrive\Desktop\OneDrive\Documents\a beauty.jpg" width="300px" heigth="500px">
+            <img src="a beauty.jpg" width="300px" heigth="500px">
             <div class="you">Mark-up Accessories</div>
         </div>
         <div class="item3">
